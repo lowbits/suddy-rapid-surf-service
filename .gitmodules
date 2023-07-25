@@ -1,6 +1,0 @@
-[submodule "service"]
-	path = service
-	url = git@github.com:lowbits/suddy-rapid-surf-service.git
-[submodule "web"]
-	path = web
-	url = git@github.com:lowbits/suddy-rapid-surf-web.git
